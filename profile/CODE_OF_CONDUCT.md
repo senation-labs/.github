@@ -16,7 +16,7 @@ Unacceptable behavior:
 - Publishing private information without consent  
 
 ## Reporting
-If you experience or witness unacceptable behavior, please report it to **community.senationlabs@gmail.com**. All reports are treated confidentially.
+If you experience or witness unacceptable behavior, please report it to **contact.senationlabs@gmail.com**. All reports are treated confidentially.
 
 ## Enforcement
 Maintainers will review all reports and may remove content, ban participants, or take other actions as needed.
