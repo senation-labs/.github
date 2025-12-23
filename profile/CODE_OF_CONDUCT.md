@@ -1,7 +1,7 @@
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
-We pledge to make participation in Senation Labs projects a harassment-free experience for everyone.
+We pledge to make participation in Senation Lab projects a harassment-free experience for everyone.
 
 ## Our Standards
 Expected behavior:
