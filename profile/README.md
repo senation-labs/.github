@@ -2,17 +2,17 @@
   <img src="./banner.gif" alt="Senation Labs Animation" width="100%" />
 </p>
 
-# 👋 Welcome to Senation Labs
+# 👋 Welcome to Senation Lab
 
 <p align="center">
-  Senation Labs is a tight-knit team of four delivering cross-platform mobile and web solutions with Flutter and React Native.
+  Senation Lab is a tight-knit team of four delivering cross-platform mobile and web solutions with Flutter and React Native.
 </p>
 
 ---
 
 ## 📖 About Us
 
-Senation Labs was founded in 2024 to empower businesses with robust, user-centric applications.  
+Senation Lab was founded in 2024 to empower businesses with robust, user-centric applications.  
 
 Our mission is to accelerate innovation by crafting beautiful, high-performance software experiences that delight users and drive growth.
 
@@ -74,7 +74,7 @@ Our mission is to accelerate innovation by crafting beautiful, high-performance 
 ## 📜 License & Code of Conduct
 
 - **Client Projects**  
-  All deliverables for client-commissioned work are transferred in full to the client. Senation Labs retains no rights or claims. Clients may copyright or license these as they wish.
+  All deliverables for client-commissioned work are transferred in full to the client. Senation Lab retains no rights or claims. Clients may copyright or license these as they wish.
 
 - **CoreX Team Projects**  
   Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). You may copy and redistribute the material in any medium or format, but you may not use it for commercial purposes or distribute adaptations.
@@ -85,16 +85,16 @@ See [LICENSE](./LICENSE) for full text and [CODE_OF_CONDUCT.md](./CODE_OF_CONDUC
 
 ## 📫 Contact & Support
 
-- 🌍 Website: [senationlabs.com](https://www.senationlabs.com)  
-- 🔗 LinkedIn: [Senation Labs](https://www.linkedin.com/company/senationlabs)  
-- 📧 Email: contact.senationlabs@gmail.com  
-- 📺 YouTube: [Senation Labs](https://www.youtube.com/@senationlabs)  
-- 🐦 X: [@SenationLabs](https://x.com/senationlabs)  
-- 📸 Instagram: [@SenationLabs](https://www.instagram.com/senationlabs)
+- 🌍 Website: [senationlab.com](https://www.senationlab.com)  
+- 🔗 LinkedIn: [Senation Lab](https://www.linkedin.com/company/senationlabs)  
+- 📧 Email: contact@senationlab.com  
+- 📺 YouTube: [Senation Lab](https://www.youtube.com/@senationlab)  
+- 🐦 X: [@SenationLab](https://x.com/senationlab)  
+- 📸 Instagram: [@SenationLab](https://www.instagram.com/senationlab)
 
 ---
 
 <p align="center">
-  Made with ❤️ by the Senation Labs (Team-Core X)
+  Made with ❤️ by the Senation Lab (Team-Core X)
 </p>
 ```
