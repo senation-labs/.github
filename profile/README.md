@@ -20,8 +20,8 @@ Our mission is to accelerate innovation by crafting beautiful, high-performance 
 
 ## 🤝 What We Build
 
-- **Trade X**  
-  A fully-fledged, near real-time trading assistant for equities and commodities with dual-mode support.
+- **Paperbull(Simulation)**  
+  A fully-fledged, near real-time trading app for equities and commodities and more with Trade dual-mode support.
 
 - **AttendEase**  
   A basic attendance-management Android app.
